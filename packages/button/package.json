@@ -1,0 +1,12 @@
+{
+  "name": "button",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/react": "^3.4.8"
+  },
+  "dependencies": {
+    "@material-ui/core": "^1.4.0"
+  }
+}

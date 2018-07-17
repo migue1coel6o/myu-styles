@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "allowJs": true,
+      "jsx": "react",
+      "outDir": "./lib",
+      "rootDir": "./",
+      "strict": true,
+      "allowSyntheticDefaultImports": false,
+      "skipLibCheck": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+    }
+  }
